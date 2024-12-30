@@ -1,0 +1,10 @@
+{
+    "image_path": "./LicPlateImages/7.png",
+    "license_plate": "NITESKY",
+    "detection_success": true,
+    "vehicle_color": [
+        34,
+        33,
+        38
+    ]
+}
