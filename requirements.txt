@@ -1,0 +1,9 @@
+ultralytics>=8.3.31
+ipywidgets>=8.1.5
+pytesseract>=0.3.13
+numpy>=1.26.4
+opencv-python>=4.10.0
+pandas>=2.2.2
+matplotlib>=3.8.0
+scikit-learn>=1.5.2
+torch>=2.5.1+cu121
